@@ -17,11 +17,11 @@ export function problem (lines) {
 }
 */
 
-function problem (values) {
-    const [A,B,C] = values
+function problem(values) {
+    const [A, B, C] = values
 
     const media = (A * 2 + B * 3 + C * 5) / 10
-    return(`MEDIA = ${media.toFixed(1)}`)
+    return (`MEDIA = ${media.toFixed(1)}`)
 }
 
-console.log(problem([10.0,10.0,5.0]))
+console.log(problem([10.0, 10.0, 5.0]))
