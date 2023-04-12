@@ -12,18 +12,27 @@ O arquivo de entrada contém 4 valores inteiros.
 # Saída
 Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 
-Exemplos de Entrada         Exemplos de Saída
-5                           DIFERENCA = -26
+### Exemplos de Entrada  
+       
+5                           
 6
 7
 8
--------------------------------------------
-0                           DIFERENCA = -56
+
+0                           
 0
 7
 8
--------------------------------------------
-5                           DIFERENCA = 86
+
+5                          
 6
 -7
 8
+
+### Exemplos de Saída
+
+DIFERENCA = -26
+
+DIFERENCA = -56
+
+DIFERENCA = 86
