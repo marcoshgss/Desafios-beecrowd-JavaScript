@@ -21,6 +21,7 @@
 4
 
 ### Exemplos de Saída
+
 X = 19
 
 X = -6 
