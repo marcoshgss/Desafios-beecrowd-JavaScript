@@ -3,7 +3,7 @@ let B = 10
 
 let SOMA = Number(A) + Number(B)
 
-console.log(`SOMA = ${SOMA}`) 
+console.log(`SOMA = ${SOMA}`)
 
 /*
 export function problem (lines) {
