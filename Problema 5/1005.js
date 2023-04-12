@@ -1,7 +1,7 @@
 //export function problem (lines) {
-    
+
 //    const [notaA, notaB] = lines
-    
+
 //    const media = (notaA * 3.5 + notaB * 7.5) / 11
 //    console.log(`MEDIA = ${media.toFixed(5)}`)
 //}
@@ -9,7 +9,7 @@
 
 //function Media1 (notaA, notaB) {//
 //    const media = (notaA * 3.5 + notaB * 7.5) / 11
- //   return media;
+//   return media;
 
 //}
 
