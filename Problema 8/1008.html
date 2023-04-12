@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>1008</title>
 </head>
+
 <body>
     <script>
-    //Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas,
-    //o valor que recebe por hora e calcula o salário desse funcionário. 
-    //A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
 
         let numFuncionario = 1
         let numHoras = 200
@@ -21,14 +20,15 @@
         console.log(`NUMBER = ${numFuncionario}`)
         console.log(`SALARY = U$ ${calSalario.toFixed(2)}`)
 
-    function calcularSalario (numero, horas, valorHora) {
-        const salario =  horas * valorHora
-        console.log(`NUMBER = ` + numero)
-        return `SALARY = U$ ${salario.toFixed(2)}`
-    }
+        function calcularSalario(numero, horas, valorHora) {
+            const salario = horas * valorHora
+            console.log(`NUMBER = ` + numero)
+            return `SALARY = U$ ${salario.toFixed(2)}`
+        }
 
-    console.log(calcularSalario(25,100, 5.50))
-    
+        console.log(calcularSalario(25, 100, 5.50))
+
     </script>
 </body>
+
 </html>

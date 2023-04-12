@@ -12,15 +12,27 @@ O arquivo de entrada contém 2 números inteiros e 1 número com duas casas deci
 # Saída
 Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
 
-Exemplos de Entrada         Exemplos de Saída
-25                          NUMBER = 25
-100                         SALARY = U$ 550.00
+### Exemplos de Entrada 
+        
+25                          
+100                         
 5.50
--------------------------------------------
-1                           NUMBER = 1
-200                         SALARY = U$ 4100.00          
+
+1                           
+200                                   
 20.50
--------------------------------------------
-6                           NUMBER = 6
-145                         SALARY = U$ 2254.75
+
+6                           
+145                         
 15.55
+
+### Exemplos de Saída
+
+NUMBER = 25
+SALARY = U$ 550.00
+
+NUMBER = 1
+SALARY = U$ 4100.00
+
+NUMBER = 6
+SALARY = U$ 2254.75
