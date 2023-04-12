@@ -13,9 +13,18 @@ Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando
 # Saída
 - Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
-Exemplos de Entrada	      Exemplos de Saída
-2.00                      A=12.5664
--------------------------------------------
-100.64                    A=31819.3103
--------------------------------------------
-150.00                    A=70685.7750
+### Exemplos de Entrada	  
+
+2.00                      
+
+100.64                    
+
+150.00                    
+
+### Exemplos de Saída
+
+A=12.5664
+
+A=31819.3103
+
+A=70685.7750
